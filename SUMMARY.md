@@ -1,17 +1,17 @@
 # Table of contents
 
-* [Know Ruby? Enter Crystal!](README.md)
+* [知道 Ruby 吗? 进入 Crystal 吧!](README.md)
 
 ## book
 
-* [Chapter 1: Why Crystal?](book/chapter-1-why-crystal.md)
-* [Chapter 2: Installing Crystal](book/chapter-2-installing-crystal.md)
-* [Chapter 3: Writing Your First Crystal Program](book/chapter-3-writing-your-first-crystal-program.md)
-* [Chapter 4: Creating a new project](book/chapter-4-creating-a-new-project.md)
-* [Chapter 5: Testing](book/chapter-5-testing.md)
-* [Chapter 6: FizzBuzz](book/chapter-6-fizzbuzz.md)
-* [Chapter 7: Types and Method Overloading](book/chapter-7-types-and-method-overloading.md)
-* [Chapter 8: Concurrency and Channels](book/chapter-8-concurrency-and-channels.md)
-* [Chapter 9: Macros and Metaprogramming](book/chapter-9-macros-and-metaprogramming.md)
-* [Chapter 10: C Bindings](book/chapter-10-c-bindings.md)
+* [第一章：为什么是 Crystal？](book/chapter-1-why-crystal.md)
+* [第二章：安装 Crystal](book/chapter-2-installing-crystal.md)
+* [第三章：编写你的第一个 Crystal 程序](book/chapter-3-writing-your-first-crystal-program.md)
+* [第四章：创建一个新项目](book/chapter-4-creating-a-new-project.md)
+* [第五章：测试](book/chapter-5-testing.md)
+* [第六章：FizzBuzz 问题](book/chapter-6-fizzbuzz.md)
+* [第七章：类型和方法重载](book/chapter-7-types-and-method-overloading.md)
+* [第八章：并发和管道](book/chapter-8-concurrency-and-channels.md)
+* [第九章：宏和元编程](book/chapter-9-macros-and-metaprogramming.md)
+* [第十章：C 绑定](book/chapter-10-c-bindings.md)
 
