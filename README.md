@@ -6,7 +6,7 @@
 
 **你是谁？**
 
-我是 [**Serdar Dogruyol**](https://github.com/sdogruyol), 我是一名多年的 Rubyist，我创造了 [Kemal](http://kemalcr.com/)，同时也是 [Crystal Weekly](http://www.crystalweekly.com/) 负责人和一名 [多产的开源贡献者](https://github.com/sdogruyol).
+我是 [**Serdar Dogruyol**](https://github.com/sdogruyol), 一名多年的 Rubyist，我创造了 [Kemal](http://kemalcr.com/)，同时也是 [Crystal Weekly](http://www.crystalweekly.com/) 负责人和一名 [多产的开源贡献者](https://github.com/sdogruyol).
 
 我爱新兴编程语言，虽然我过去几年一直使用的 Ruby，也用 Java，PHP，Crystal，Elixir 和其他许多语言写过很多代码，我也喜欢写作和编写好的文档，这很难，Crystal 还缺乏很多东西，我在努力构建基石。
 
