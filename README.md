@@ -6,19 +6,18 @@
 
 **你是谁？**
 
-I'm [**Serdar Dogruyol**](https://github.com/sdogruyol), and I've been a Rubyist for years now. I'm the creator of [Kemal](http://kemalcr.com/), curator of [Crystal Weekly](http://www.crystalweekly.com/) and a [prolific Open Source contributor](https://github.com/sdogruyol).
+我是 [**Serdar Dogruyol**](https://github.com/sdogruyol), 我是一名多年的 Rubyist，我创造了 [Kemal](http://kemalcr.com/)，同时也是 [Crystal Weekly](http://www.crystalweekly.com/) 负责人和一名 [多产的开源贡献者](https://github.com/sdogruyol).
 
-I love new programming languages, and while I've been using Ruby for the past few years, I've coded in Java, PHP, Crystal, Elixir and a host of others. I also love writing, and good documentation, which is hard to find. Crystal doesn't have a lot of that yet, so I'm pitching in!
+我爱新兴编程语言，虽然我过去几年一直使用的 Ruby，也用 Java，PHP，Crystal，Elixir 和其他许多语言写过很多代码，我也喜欢写作和编写好的文档，这很难，Crystal 还缺乏很多东西，我在努力构建基石。
 
 **为什么是 Crystal？**
 
-[The first section of the book discusses this](http://www.crystalforrubyists.com/book/book.html#why-crystal) and i've written [a blog post](http://serdardogruyol.com/why-crystal) dedicated to this, but basically, Crystal is good at everything Ruby is bad at...plus as a Rubyist you already know Crystal.
+[本书第一节讨论了这个](http://www.crystalforrubyists.com/book/book.html#why-crystal) 并且我也写了 [一篇博客](http://serdardogruyol.com/why-crystal) 关于它, 但基本上, Crystal 擅长 Ruby 所擅长的一切... 再加上你作为一个 Rubyist 已经知道了 Crystal，很棒！
 
 **我能得到什么？**
 
-Basically, you can [read the whole thing online for free](http://www.crystalforrubyists.com/book/index.html)
+基本上, 你可以 [免费在线阅读整本书](http://www.crystalforrubyists.com/book/index.html)
 
 **我必须了解 Ruby 吗？**
 
-Really, I love alliteration: the only thing the 'for Rubyists' really means is that I assume you don't know about types, pointers, concurrency, or similar things. That's okay, you've never had to think about them before! I explain this stuff in extra depth. If you program in another dynamically typed language, you'll be just fine. If you program in another typed language, you'll be more than fine.
-
+真的，我喜欢头韵：“对于 Rubyists” 真正意味着唯一的事情是我假设你不知道类型，指针，并发或类似的东西。没关系，就算你以前从来没有了解过这些！我会更深入地解释这些东西，如果你用过另一种动态类型语言，完全不用担心，如果你用过另一种强类型语言，那么会更好。
