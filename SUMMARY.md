@@ -1,6 +1,6 @@
 # Table of contents
 
-* [知道 Ruby 吗? 进入 Crystal 吧!](README.md)
+* [知道 Ruby 吗? 进入 Crystal 吧！](README.md)
 
 ## book
 
